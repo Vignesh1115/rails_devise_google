@@ -39,4 +39,7 @@ Rails.application.configure do
 
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
+
+  GOOGLE_CLIENT_ID = 'Client ID for your app'
+  GOOGLE_SECRET_KEY = 'Secret key for your app'
 end
